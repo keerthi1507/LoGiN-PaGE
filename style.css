@@ -38,13 +38,13 @@ form .form-field::before {
   background-repeat: no-repeat;
 }
 form .form-field:nth-child(1)::before {
-  background-image: url(F:\login-page-with-background-image\img\lock-icon.png);
+  background-image: url(https://github.com/keerthi1507/LoGiN-PaGE/blob/main/lock-icon.png?raw=true);
   width: 20px;
   height: 20px;
   top: 15px;
 }
 form .form-field:nth-child(2)::before {
-  background-image: url(F:\login-page-with-background-image\img\user-icon.png);
+  background-image: url();
   width: 16px;
   height: 16px;
 }
